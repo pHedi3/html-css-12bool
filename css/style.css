@@ -1,0 +1,21 @@
+[class^="col"] {
+    height: 100px;
+    background-color: pink;
+    border: 1px solid black;
+    line-height: 100px;
+    text-align: center;
+    padding: 5px;
+}
+
+.row {
+    height: 100%;
+}
+
+
+[class^="col"] > .row > [class^="col"] {
+    height: 100%;
+    background-color: plum;
+    border: 1px solid white;
+    
+
+}
