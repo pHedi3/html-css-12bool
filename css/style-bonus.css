@@ -1,0 +1,43 @@
+.container-fluid {
+    background-color: #333;
+}
+
+
+[class^="col"] {
+    height: calc(100vh/17);
+}
+
+
+
+.black {
+    background-color: black;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.green {
+    background-color:cadetblue;
+}
+
+.white {
+    background-color: white;
+}
+
+.red {
+    background-color: red;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.orange {
+    background-color: orange;
+}
+
+.brown {
+    background-color: burlywood;
+}
+
